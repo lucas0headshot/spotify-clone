@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.senac.lucasr.spotifyclone',
   appName: 'Spotify Clone',
   webDir: 'www'
 };

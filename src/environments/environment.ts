@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  spotifyUrl: "https://api.spotify.com/v1/",
+  spotifyToken: "" // Pegue em: https://developer.spotify.com/
 };
 
 /*
